@@ -1,0 +1,467 @@
+1
+00:00:01,000 --> 00:00:04,000
+"Todos os habitantes do país deveriam saber
+programar um computador...
+
+2
+00:00:04,000 --> 00:00:09,000
+porque essa atividade nos ensina a pensar", Steve Jobs
+
+3
+00:00:09,000 --> 00:00:12,660
+- O que você quer ser quando crescer?
+- Uma astronauta.
+
+4
+00:00:13,670 --> 00:00:15,040
+- Eu quero ser designer de moda.
+- Jogador de basquete.
+
+5
+00:00:16,440 --> 00:00:17,440
+- Eu quero ser ator.
+- Médica.
+
+6
+00:00:17,640 --> 00:00:19,040
+- Um professor.
+- Chef de cozinha.
+
+7
+00:00:19,240 --> 00:00:20,240
+Uma artista.
+
+8
+00:00:23,720 --> 00:00:24,720
+- O que você quer ser quando crescer?
+- Uma sereia!
+
+9
+00:00:24,920 --> 00:00:30,100
+- Você sabe o que é um programador de computador?
+- Não.
+
+10
+00:00:30,300 --> 00:00:31,300
+- Não.
+- Não.
+
+11
+00:00:32,140 --> 00:00:39,140
+- Eu acho que é algo que tem código, e decodifica um mistério.
+- Eu acho que eles...
+
+12
+00:00:41,850 --> 00:00:45,350
+- O quê?
+- Programador de computador?
+
+13
+00:00:48,860 --> 00:00:55,560
+Hoje, praticamente tudo envolve alguma forma de programação.
+Então o que é programação?
+
+14
+00:00:55,560 --> 00:01:02,960
+Basicamente, é explicar a um computador o que você quer que ele faça.
+- Quando você está programando, você está ensinando...
+
+15
+00:01:02,960 --> 00:01:08,060
+a um computador, talvez a coisa mais estúpida do universo.
+- A programação é uma das únicas coisas...
+
+16
+00:01:08,060 --> 00:01:13,740
+do mundo que você pode fazer,
+simplesmente se sentando e fazendo alguma coisa...
+
+17
+00:01:13,740 --> 00:01:18,910
+completamente nova a partir do zero.
+- Não é nada diferente de tocar um instrumento...
+
+18
+00:01:18,910 --> 00:01:26,250
+ou praticar um esporte. No começo é intimidador,
+mas você pega o jeito.
+
+19
+00:01:26,250 --> 00:01:31,660
+- Programação é algo que pode ser aprendido
+e eu sei que pode ser intimidador...
+
+20
+00:01:31,660 --> 00:01:38,209
+e muitas coisas são intimidadoras, o que não é?
+- Muitas das programações feitas...
+
+21
+00:01:38,209 --> 00:01:45,209
+são muito simples. É mais um
+processo de resolver problemas do que...
+
+22
+00:01:46,149 --> 00:01:51,470
+criar algoritmos complicados, como as pessoas acham.
+- Bem, se é tão simples...
+
+23
+00:01:51,470 --> 00:01:57,020
+por que não tem mais gente programando?
+Nos próximos 10 anos haverá...
+
+24
+00:01:57,020 --> 00:02:02,940
+1,4 milhão de vagas de trabalho em ciência da computação,
+e só 400 mil graduados se qualificam para elas.
+
+25
+00:02:02,940 --> 00:02:09,940
+Ou seja, falta 1 milhão de pessoas!
+Então, como você pode começar?
+
+26
+00:02:16,220 --> 00:02:25,100
+Eu era louco por mapas quando era criança,
+cidades especificamente, então aprendi a programar.
+
+27
+00:02:25,100 --> 00:02:31,180
+Eu tinha uma meta muito clara.
+Eu queria ver um mapa da cidade na minha tela...
+
+28
+00:02:31,180 --> 00:02:36,140
+e brincar com ele. Colocar coisas no mapa,
+movê-las e ver o que estava acontecendo na cidade.
+
+29
+00:02:36,140 --> 00:02:41,280
+Eu queria ver como ela funcionava, vivia, respirava.
+- No começo, a melhor coisa era...
+
+30
+00:02:41,280 --> 00:02:47,480
+usar software para decidir
+quando as aulas na minha escola aconteceriam.
+
+31
+00:02:47,480 --> 00:02:53,000
+E isso me permitia decidir quais meninas
+estariam na minha classe.
+
+32
+00:02:54,700 --> 00:03:00,700
+O primeiro programa que eu escrevi perguntava:
+"Qual é sua cor favorita?" ou "Quantos anos você tem?"
+
+33
+00:03:00,710 --> 00:03:06,040
+A primeira coisa que aprendi foi como fazer
+um círculo verde e um quadrado vermelho aparecer na tela.
+
+34
+00:03:06,040 --> 00:03:11,220
+A primeira vez que eu consegui fazer algo dizer "Olá, mundo!"
+no computador foi surpreendente.
+
+35
+00:03:11,220 --> 00:03:17,330
+Quando eu finalmente aprendi um pouco de programação,
+aquela parede branca se mostrou cheia de portas.
+
+36
+00:03:17,330 --> 00:03:21,910
+E, finalmente, você começa a abrir
+as portas para que a luz entre.
+
+37
+00:03:21,910 --> 00:03:27,470
+E, para mim, um programa acabado é como uma
+estrutura cheia de luz, com todos os cantos iluminados.
+
+38
+00:03:27,470 --> 00:03:34,430
+E você entende a estrutura. É uma sensação muito agradável
+concluir uma programação.
+
+39
+00:03:41,300 --> 00:03:45,900
+Levei algum tempo para perceber que criar
+coisas com as mãos, ou...
+
+40
+00:03:45,900 --> 00:03:52,870
+programar, criar programas, é apenas uma maneira diferente de
+expressar a criatividade. Eu acho que agora...
+
+41
+00:03:52,870 --> 00:03:59,030
+há uma cultura de criação muito pronunciada.
+As pessoas fazem seus próprios lenços e chapéus,
+
+42
+00:03:59,030 --> 00:04:03,849
+as pessoas escrevem seus próprios aplicativos.
+- Agora somos limitados somente pela nossa imaginação.
+
+43
+00:04:03,849 --> 00:04:10,849
+Temos que definir que tipo de ideias, que tipo de entendimento
+é possível construir em um computador...
+
+44
+00:04:10,970 --> 00:04:15,830
+para fazer essas coisas que
+antes eram impossíveis.
+
+45
+00:04:18,480 --> 00:04:22,160
+Todas as grandes coisas são criadas em equipes
+quando você...
+
+46
+00:04:22,160 --> 00:04:28,050
+colabora com outras pessoas inteligentes.
+- Você testa suas ideias, um estimula o outro...
+
+47
+00:04:28,050 --> 00:04:33,650
+é isso o que nos torna bem-sucedidos.
+Não é um flash de genialidade de alguém que...
+
+48
+00:04:33,650 --> 00:04:40,650
+programa 24 horas por dia durante 3 semanas.
+A mágica acontece quando estamos todos em sintonia...
+
+49
+00:04:41,000 --> 00:04:46,940
+colaborando e construindo algo juntos.
+- Existe uma demanda muito maior por engenheiros e...
+
+50
+00:04:46,940 --> 00:04:53,940
+pessoas que sabem escrever códigos no mundo hoje
+do que profissionais disponíveis. Então vivemos
+
+51
+00:04:54,060 --> 00:05:01,080
+essas vidas encantadas. Para obter as melhores pessoas,
+tentamos tornar o escritório o melhor ambiente possível.
+
+52
+00:05:21,840 --> 00:05:22,940
+Temos um chef fantástico.
+
+53
+00:05:23,040 --> 00:05:24,140
+Comida de graça.
+
+54
+00:05:24,340 --> 00:05:25,340
+Café da manhã, almoço e jantar.
+
+55
+00:05:25,540 --> 00:05:26,840
+Lavandaria gratuita.
+
+56
+00:05:27,040 --> 00:05:28,040
+Lanches.
+
+57
+00:05:28,850 --> 00:05:35,850
+Até mesmo lugares para jogar,
+video games e patinetes.
+
+58
+00:05:35,850 --> 00:05:38,700
+Temos esse tipo de coisa no escritório.
+Lugares onde as pessoas podem...
+
+59
+00:05:38,700 --> 00:05:44,780
+jogar, relaxar, pensar, ouvir música,
+ou criar.
+
+60
+00:05:46,280 --> 00:05:49,700
+Consultei o Escritório de Estatísticas do
+Trabalho dos Estados Unidos (BLS) e...
+
+61
+00:05:49,710 --> 00:05:54,490
+cerca de um terço da pizza são coisas que você esperaria.
+Eles trabalham para o governo,
+
+62
+00:05:54,490 --> 00:06:00,010
+trabalham em empregos típicos de tecnologia,
+mas o resto resto da pizza...
+
+63
+00:06:00,010 --> 00:06:04,979
+a maior parte da pizza,
+é dividida em minúsculas fatias...
+
+64
+00:06:04,979 --> 00:06:09,490
+com todos os setores imagináveis. Então vemos que
+a computação está em toda parte!
+
+65
+00:06:09,490 --> 00:06:15,190
+Você quer trabalhar no setor de agricultura? No mundo do
+entretenimento? Ou no setor de produção?
+
+66
+00:06:15,190 --> 00:06:17,190
+A computação está em toda parte.
+
+67
+00:06:28,200 --> 00:06:33,840
+Aqui estamos nós, em 2013.
+E todos dependemos de tecnologia para nos comunicarmos,
+
+68
+00:06:33,840 --> 00:06:40,840
+para usar o banco, acessar informações.
+E nenhum de nós sabe ler e escrever código.
+
+69
+00:06:43,800 --> 00:06:48,740
+O que mais, pessoal? Quem sabe o que
+podemos mudar com nosso programa?
+
+70
+00:06:48,740 --> 00:06:51,300
+O que mais podemos fazer?
+
+71
+00:06:51,300 --> 00:06:57,260
+O que eu percebi em meus alunos ao usar o Scratch e
+programação na sala de aula
+
+72
+00:06:57,270 --> 00:07:02,889
+é que eles estão dispostos a enfrentar os problemas.
+Essa atividade desenvolve o pensamento crítico.
+
+73
+00:07:02,889 --> 00:07:08,500
+Capacita para a resolução de problemas.
+Algo que eles podem aplicar à matemática em sala de aula.
+
+74
+00:07:08,500 --> 00:07:15,500
+Ou suas habilidades de leitura. Integramos ciência à
+programação e vi minha pontuação
+
+75
+00:07:15,560 --> 00:07:22,560
+aumentar em 30%.
+- Quando eu estudava, participava de um grupo extracurricular e...
+
+76
+00:07:23,550 --> 00:07:27,410
+quando as pessoas descobriram, eles riram de mim.
+Não acreditavam no que eu sabia ou podia fazer.
+
+77
+00:07:27,410 --> 00:07:33,690
+Eu não me importava, eu gostava.
+Eu estava aprendendo, e meus amigos trabalhavam.
+
+78
+00:07:33,690 --> 00:07:40,690
+É importante para as crianças. Deveria ser obrigatório.
+Para ser um cidadão deste planeta...
+
+79
+00:07:40,910 --> 00:07:45,610
+saber ler e escrever códigos.
+
+80
+00:07:47,680 --> 00:07:52,660
+Eu só acho que você tem que começar pequeno.
+Um dos maiores equívocos sobre ciência da computação e...
+
+81
+00:07:52,660 --> 00:07:55,840
+programação é que você precisa aprender esse...
+
+82
+00:07:55,850 --> 00:08:00,639
+grande volume de informações
+antes que você possa fazer qualquer coisa.
+
+83
+00:08:00,639 --> 00:08:06,669
+- Não é preciso ser um gênio para programar, basta ser determinado.
+- Adição, subtração, é isso.
+
+84
+00:08:06,669 --> 00:08:11,240
+- Você precisa conhecer a tabuada.
+- Não precisa ser um gênio para programar.
+
+85
+00:08:11,240 --> 00:08:18,240
+Precisa ser um gênio para ler, para fazer matemática?
+Não.
+
+86
+00:08:18,710 --> 00:08:25,710
+Se alguém tivesse me falado que software
+diz respeito à humanidade. Que é algo para ajudar...
+
+87
+00:08:26,100 --> 00:08:31,380
+as pessoas com tecnologia de computador,
+teria mudado minha visão muito antes.
+
+88
+00:08:31,380 --> 00:08:34,860
+Não importa se você está tentando ganhar dinheiro
+ou apenas quer mudar o mundo, a programação é
+
+89
+00:08:34,860 --> 00:08:38,969
+uma habilidade que deve ser aprendida para alcançar seus objetivos.
+- Para ser capaz de ter uma ideia e,
+
+90
+00:08:38,969 --> 00:08:44,910
+vê-la em suas mãos e, depois, pressionar um botão e
+vê-la nas mãos de milhões de pessoas.
+
+91
+00:08:44,910 --> 00:08:48,910
+Acho que somos a primeira geração do mundo que
+realmente teve esse tipo de experiência.
+
+92
+00:08:48,910 --> 00:08:53,009
+Os programadores de amanhã são os magos do futuro.
+
+93
+00:08:53,009 --> 00:08:57,569
+- Vai parecer que você tem superpoderes em comparação aos outros.
+- Eu acho incrível.
+
+94
+00:08:57,569 --> 00:09:03,629
+- É o que temos de mais próximo dos superpoderes.
+- Grandes programadores são as estrelas do rock de hoje.
+
+95
+00:09:03,920 --> 00:09:06,260
+É isso.
+
+96
+00:09:06,880 --> 00:09:12,600
+Para começar a aprender um superpoder
+acesse a Code.org.
+
