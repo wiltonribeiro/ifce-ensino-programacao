@@ -3,6 +3,7 @@ Repositório dedicado às aulas ministradas de ensino à informática e programa
 
 ### Documentos
 [Plano de curso](https://github.com/wiltonribeiro/ifce-ensino-programacao/blob/master/documentos/Plano%20do%20Curso%20-%20IFCE.pdf)
+
 [Presença em aula](https://docs.google.com/spreadsheets/d/1kD4nB31UiIRW3AgKVYrAP5Vc5Xmh9XZdVgiT3_nlAkg/edit?usp=sharing)
 
 ### Aulas
