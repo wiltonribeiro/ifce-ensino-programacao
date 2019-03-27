@@ -1,5 +1,5 @@
 # Curso de Informática e Programação ofertado pelo PET - TI.
->Repositório dedicado às aulas ministradas de ensino à informática e programação, ofertada pelo PET - TI no campus do IFCE - Campus Quixadá. Monitores: Abilio Castro, Letícia Saraiva, Stherfany Alves, Yago Alencar e Wilton Neto. 
+Repositório dedicado às aulas ministradas de ensino à informática e programação, ofertada pelo PET - TI no campus do IFCE - Campus Quixadá. Monitores: Abilio Castro, Letícia Saraiva, Stherfany Alves, Yago Alencar e Wilton Neto. 
 
 ### Documentos
 [Plano de curso](https://github.com/wiltonribeiro/ifce-ensino-programacao/blob/master/documentos/Plano%20do%20Curso%20-%20IFCE.pdf)
