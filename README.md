@@ -9,6 +9,8 @@ Repositório dedicado às aulas ministradas de ensino à informática e programa
 ### Aulas
 [Aula 1](https://github.com/wiltonribeiro/ifce-ensino-programacao/tree/master/aulas/aula-1)
 
+[Aula 2](https://github.com/wiltonribeiro/ifce-ensino-programacao/tree/master/aulas/aula-2)
+
 ### Contato para dúvidas
 Abilio Castro: castro.abilio@gmail.com  
 Wilton Neto: willrcneto@gmail.com
