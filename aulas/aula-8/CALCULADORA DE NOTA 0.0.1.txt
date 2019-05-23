@@ -1,0 +1,26 @@
+CALCULADORA DE NOTA 0.0.1
+1- Média Aritmética 2- Média Ponderada 3- Sair
+>> 
+
+CALCULADORA DE NOTA 0.0.1
+1- Média Aritmética 2- Média Ponderada 3- Sair
+>> 1
+Digite seu nome: Antoim
+Digite a primeira nota (N1): 4
+Digite a segunda  nota (N2): 3
+Digete a terceira nota (N3): 2
+Resultado:
+Infelizmente Antoim você foi reprovado
+
+CALCULADORA DE NOTA 0.0.1
+1- Média Aritmética 2- Média Ponderada 3- Sair
+>> 2
+Digite seu nome: Antoim
+Digite a primeira nota (N1): 4
+Digite o peso da nota (P1): 2
+Digite a segunda  nota (N2): 3
+Digite o peso da nota (P2): 4
+Digete a terceira nota (N3): 2
+Digite o peso da nota (P3): 6
+Resultado:
+Infelizmente Antoim você foi reprovado
